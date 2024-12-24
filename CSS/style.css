@@ -1,0 +1,12 @@
+
+title,
+.link {
+    background-color: orange;
+    text-align: center;
+}
+
+.link.font-change {
+    font-size: larger;
+}
+
+

@@ -21,4 +21,6 @@ this website and publishing it on github publically:
 -Also learned how to publish public websites through github
 -Finished this project 12/22/2024 and submitted my website through the public odin project webpage
 
+-Came back 12/24/2024 to style this with CSS
+
 
