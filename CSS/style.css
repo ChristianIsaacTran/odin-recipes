@@ -1,12 +1,43 @@
 
-title,
-.link {
+/*call to make everthing use alternative box style*/
+html {
+    background-color: grey;
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+.main-container{
+    background-color: white;
+    padding: 15px;
+    border: 5px solid black;
+    margin: 20px;
+}
+
+.title,
+a {
     background-color: orange;
     text-align: center;
 }
 
-.link.font-change {
-    font-size: larger;
+a {
+    font-size: large;
+    width: 300px;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: white;
+}
+
+li {
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
 }
 
 
